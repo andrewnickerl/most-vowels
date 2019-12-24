@@ -1,5 +1,3 @@
-// YOUR CODE BELOW
-
 function mostVowels(words)
 {
     let currentWord = '';
